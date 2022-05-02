@@ -1,0 +1,48 @@
+,ID,Name,Description
+0,1,"Noun, proper",
+1,2,"Noun, common",Generic (unspecified subcategory).
+2,3,"Noun, common, masculine",
+3,4,"Noun, common, feminine",
+4,5,"Noun, common, neuter",
+5,6,Adjective,
+6,7,"Adjective, Comparative",
+7,8,"Adjective, Superlative",
+8,9,Verb,
+9,10,"Participle, present",
+10,11,"Participle, past",
+11,12,Adverb,
+12,13,"Adverb, Comparative",
+13,14,"Adverb, Superlative",
+14,15,"Adverb, manner",
+15,16,"Adverb, locative",
+16,17,"Adverb, directional",
+17,18,"Adverb, temporal",
+18,19,Preposition,Generic (unspecified subcategory).
+19,20,"Preposition, +A",
+20,21,"Preposition, +D",
+21,22,"Preposition, +G",
+22,23,"Preposition, +AD",
+23,24,"Preposition, +DG",
+24,25,"Preposition, +ADG",
+25,26,Pronoun,Generic (unspecified subcategory).
+26,27,"Pronoun, personal",
+27,28,"Pronoun, personal, reflexive",
+28,29,"Pronoun, personal, relative",
+29,30,"Pronoun, possesive",
+30,31,"Pronoun, possesive, reflexive",
+31,32,"Pronoun, demonstrative",
+32,33,"Pronoun, relative",
+33,34,"Pronoun, interrogative",
+34,35,"Pronoun, indefinite",
+35,36,"Numeral, cardinal",
+36,37,"Numeral, ordinal",
+37,38,"Numeral, other","Kollektives Zahlwort, distributives Zahlwort, ...?"
+38,39,Conjunction,
+39,40,"Conjunction, enclitic",
+40,41,Particle,
+41,42,"Particle, enclitic",
+42,43,Interjection,
+43,44,Foreign word,
+44,45,Multiple functions,"Temporary tag: the lemma can have different functions and should be split (e.g. ""nu"": adverb or conjunction)."
+45,46,Unassigned,Temporary tag: the lemma is problematic (or unique as in EAGLES unique/unassigned).
+46,47,<none>,"Not applicable, e.g. when the entry is a link to another lemma."

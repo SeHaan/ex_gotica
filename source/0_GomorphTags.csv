@@ -1,0 +1,181 @@
+,ID,Tagset,Position,Name,Description
+0,1,1,1,FORM,Lemma
+1,2,2,1,NOM-SING,Nominative Singular
+2,3,2,2,ACC-SING,Accusative Singular
+3,4,2,3,DAT-SING,Dative Singular
+4,5,2,4,GEN-SING,Genitive Singular
+5,6,2,5,VOC-SING,Vocative Singular
+6,7,2,6,NOM-PLUR,Nominative Plural
+7,8,2,7,ACC-PLUR,Accusative Plural
+8,9,2,8,DAT-PLUR,Dative Plural
+9,10,2,9,GEN-PLUR,Genitive Plural
+10,11,2,10,VOC-PLUR,Vocative Plural
+11,12,3,1,STRONG-MASC-NOM-SING,Strong Masculine Nominative Singular
+12,13,3,2,STRONG-MASC-ACC-SING,Strong Masculine Accusative Singular
+13,14,3,3,STRONG-MASC-DAT-SING,Strong Masculine Dative Singular
+14,15,3,4,STRONG-MASC-GEN-SING,Strong Masculine Genitive Singular
+15,16,3,5,STRONG-MASC-NOM-PLUR,Strong Masculine Nominative Plural
+16,17,3,6,STRONG-MASC-ACC-PLUR,Strong Masculine Accusative Plural
+17,18,3,7,STRONG-MASC-DAT-PLUR,Strong Masculine Dative Plural
+18,19,3,8,STRONG-MASC-GEN-PLUR,Strong Masculine Genitive Plural
+19,20,3,9,STRONG-FEM-NOM-SING,Strong Feminine Nominative Singular
+20,21,3,10,STRONG-FEM-ACC-SING,Strong Feminine Accusative Singular
+21,22,3,11,STRONG-FEM-DAT-SING,Strong Feminine Dative Singular
+22,23,3,12,STRONG-FEM-GEN-SING,Strong Feminine Genitive Singular
+23,24,3,13,STRONG-FEM-NOM-PLUR,Strong Feminine Nominative Plural
+24,25,3,14,STRONG-FEM-ACC-PLUR,Strong Feminine Accusative Plural
+25,26,3,15,STRONG-FEM-DAT-PLUR,Strong Feminine Dative Plural
+26,27,3,16,STRONG-FEM-GEN-PLUR,Strong Feminine Genitive Plural
+27,28,3,17,STRONG-NEUT-NOM-SING,Strong Neuter Nominative Singular
+28,29,3,18,STRONG-NEUT-ACC-SING,Strong Neuter Accusative Singular
+29,30,3,19,STRONG-NEUT-DAT-SING,Strong Neuter Dative Singular
+30,31,3,20,STRONG-NEUT-GEN-SING,Strong Neuter Genitive Singular
+31,32,3,21,STRONG-NEUT-NOM-PLUR,Strong Neuter Nominative Plural
+32,33,3,22,STRONG-NEUT-ACC-PLUR,Strong Neuter Accusative Plural
+33,34,3,23,STRONG-NEUT-DAT-PLUR,Strong Neuter Dative Plural
+34,35,3,24,STRONG-NEUT-GEN-PLUR,Strong Neuter Genitive Plural
+35,36,3,25,WEAK-MASC-NOM-SING,Weak Masculine Nominative Singular
+36,37,3,26,WEAK-MASC-ACC-SING,Weak Masculine Accusative Singular
+37,38,3,27,WEAK-MASC-DAT-SING,Weak Masculine Dative Singular
+38,39,3,28,WEAK-MASC-GEN-SING,Weak Masculine Genitive Singular
+39,40,3,29,WEAK-MASC-NOM-PLUR,Weak Masculine Nominative Plural
+40,41,3,30,WEAK-MASC-ACC-PLUR,Weak Masculine Accusative Plural
+41,42,3,31,WEAK-MASC-DAT-PLUR,Weak Masculine Dative Plural
+42,43,3,32,WEAK-MASC-GEN-PLUR,Weak Masculine Genitive Plural
+43,44,3,33,WEAK-FEM-NOM-SING,Weak Feminine Nominative Singular
+44,45,3,34,WEAK-FEM-ACC-SING,Weak Feminine Accusative Singular
+45,46,3,35,WEAK-FEM-DAT-SING,Weak Feminine Dative Singular
+46,47,3,36,WEAK-FEM-GEN-SING,Weak Feminine Genitive Singular
+47,48,3,37,WEAK-FEM-NOM-PLUR,Weak Feminine Nominative Plural
+48,49,3,38,WEAK-FEM-ACC-PLUR,Weak Feminine Accusative Plural
+49,50,3,39,WEAK-FEM-DAT-PLUR,Weak Feminine Dative Plural
+50,51,3,40,WEAK-FEM-GEN-PLUR,Weak Feminine Genitive Plural
+51,52,3,41,WEAK-NEUT-NOM-SING,Weak Neuter Nominative Singular
+52,53,3,42,WEAK-NEUT-ACC-SING,Weak Neuter Accusative Singular
+53,54,3,43,WEAK-NEUT-DAT-SING,Weak Neuter Dative Singular
+54,55,3,44,WEAK-NEUT-GEN-SING,Weak Neuter Genitive Singular
+55,56,3,45,WEAK-NEUT-NOM-PLUR,Weak Neuter Nominative Plural
+56,57,3,46,WEAK-NEUT-ACC-PLUR,Weak Neuter Accusative Plural
+57,58,3,47,WEAK-NEUT-DAT-PLUR,Weak Neuter Dative Plural
+58,59,3,48,WEAK-NEUT-GEN-PLUR,Weak Neuter Genitive Plural
+59,60,3,49,CMP,Comparative degree [Weak Masculine Nominative Singular --> redirect]
+60,61,3,50,SPR,Superlative degree [Strong Masculine Nominative Singular --> redirect]
+61,62,3,51,ADV,Adverb
+62,63,4,1,NOM-SING,Nominative Singular
+63,64,4,2,ACC-SING,Accusative Singular
+64,65,4,3,DAT-SING,Dative Singular
+65,66,4,4,GEN-SING,Genitive Singular
+66,67,4,5,NOM-DUAL,Nominative Dual
+67,68,4,6,ACC-DUAL,Accusative Dual
+68,69,4,7,DAT-DUAL,Dative Dual
+69,70,4,8,GEN-DUAL,Genitive Dual
+70,71,4,9,NOM-PLUR,Nominative Plural
+71,72,4,10,ACC-PLUR,Accusative Plural
+72,73,4,11,DAT-PLUR,Dative Plural
+73,74,4,12,GEN-PLUR,Genitive Plural
+74,75,5,1,MASC-NOM-SING,Masculine Nominative Singular
+75,76,5,2,MASC-ACC-SING,Masculine Accusative Singular
+76,77,5,3,MASC-DAT-SING,Masculine Dative Singular
+77,78,5,4,MASC-GEN-SING,Masculine Genitive Singular
+78,79,5,5,MASC-NOM-PLUR,Masculine Nominative Plural
+79,80,5,6,MASC-ACC-PLUR,Masculine Accusative Plural
+80,81,5,7,MASC-DAT-PLUR,Masculine Dative Plural
+81,82,5,8,MASC-GEN-PLUR,Masculine Genitive Plural
+82,83,5,9,FEM-NOM-SING,Feminine Nominative Singular
+83,84,5,10,FEM-ACC-SING,Feminine Accusative Singular
+84,85,5,11,FEM-DAT-SING,Feminine Dative Singular
+85,86,5,12,FEM-GEN-SING,Feminine Genitive Singular
+86,87,5,13,FEM-NOM-PLUR,Feminine Nominative Plural
+87,88,5,14,FEM-ACC-PLUR,Feminine Accusative Plural
+88,89,5,15,FEM-DAT-PLUR,Feminine Dative Plural
+89,90,5,16,FEM-GEN-PLUR,Feminine Genitive Plural
+90,91,5,17,NEUT-NOM-SING,Neuter Nominative Singular
+91,92,5,18,NEUT-ACC-SING,Neuter Accusative Singular
+92,93,5,19,NEUT-DAT-SING,Neuter Dative Singular
+93,94,5,20,NEUT-GEN-SING,Neuter Genitive Singular
+94,95,5,21,NEUT-INS-SING,Neuter Instrumentalis Singular
+95,96,5,22,NEUT-NOM-PLUR,Neuter Nominative Plural
+96,97,5,23,NEUT-ACC-PLUR,Neuter Accusative Plural
+97,98,5,24,NEUT-DAT-PLUR,Neuter Dative Plural
+98,99,5,25,NEUT-GEN-PLUR,Neuter Genitive Plural
+99,100,6,1,MASC-NOM,Masculine Nominative
+100,101,6,2,MASC-ACC,Masculine Accusative
+101,102,6,3,MASC-DAT,Masculine Dative
+102,103,6,4,MASC-GEN,Masculine Genitive
+103,104,6,5,FEM-NOM,Feminine Nominative
+104,105,6,6,FEM-ACC,Feminine Accusative
+105,106,6,7,FEM-DAT,Feminine Dative
+106,107,6,8,FEM-GEN,Feminine Genitive
+107,108,6,9,NEUT-NOM,Neuter Nominative
+108,109,6,10,NEUT-ACC,Neuter Accusative
+109,110,6,11,NEUT-DAT,Neuter Dative
+110,111,6,12,NEUT-GEN,Neuter Genitive
+111,112,7,1,INDECL,Not declined
+112,113,7,2,DAT,Dative
+113,114,7,3,GEN,Genitive
+114,115,8,1,INF,Infinitive
+115,116,8,2,PART-PRES,Participium Presens [Strong Masculine Nominative Singular --> redirect]
+116,117,8,3,PART-PERF,Participium Perfectum [Strong Masculine Nominative Singular --> redirect]
+117,118,8,4,ACT-IND-PRES-SING-1,Active Indicative Present 1st Person Singular
+118,119,8,5,ACT-IND-PRES-SING-2,Active Indicative Present 2nd Person Singular
+119,120,8,6,ACT-IND-PRES-SING-3,Active Indicative Present 3rd Person Singular
+120,121,8,7,ACT-IND-PRES-DUAL-1,Active Indicative Present 1st Person Dual
+121,122,8,8,ACT-IND-PRES-DUAL-2,Active Indicative Present 2nd Person Dual
+122,123,8,9,ACT-IND-PRES-DUAL-3,Active Indicative Present 3rd Person Dual
+123,124,8,10,ACT-IND-PRES-PLUR-1,Active Indicative Present 1st Person Plural
+124,125,8,11,ACT-IND-PRES-PLUR-2,Active Indicative Present 2nd Person Plural
+125,126,8,12,ACT-IND-PRES-PLUR-3,Active Indicative Present 3rd Person Plural
+126,127,8,13,ACT-IND-PRET-SING-1,Active Indicative Preterite 1st Person Singular
+127,128,8,14,ACT-IND-PRET-SING-2,Active Indicative Preterite 2nd Person Singular
+128,129,8,15,ACT-IND-PRET-SING-3,Active Indicative Preterite 3rd Person Singular
+129,130,8,16,ACT-IND-PRET-DUAL-1,Active Indicative Preterite 1st Person Dual
+130,131,8,17,ACT-IND-PRET-DUAL-2,Active Indicative Preterite 2nd Person Dual
+131,132,8,18,ACT-IND-PRET-DUAL-3,Active Indicative Preterite 3rd Person Dual
+132,133,8,19,ACT-IND-PRET-PLUR-1,Active Indicative Preterite 1st Person Plural
+133,134,8,20,ACT-IND-PRET-PLUR-2,Active Indicative Preterite 2nd Person Plural
+134,135,8,21,ACT-IND-PRET-PLUR-3,Active Indicative Preterite 3rd Person Plural
+135,136,8,22,ACT-OPT-PRES-SING-1,Active Optative Present 1st Person Singular
+136,137,8,23,ACT-OPT-PRES-SING-2,Active Optative Present 2nd Person Singular
+137,138,8,24,ACT-OPT-PRES-SING-3,Active Optative Present 3rd Person Singular
+138,139,8,25,ACT-OPT-PRES-DUAL-1,Active Optative Present 1st Person Dual
+139,140,8,26,ACT-OPT-PRES-DUAL-2,Active Optative Present 2nd Person Dual
+140,141,8,27,ACT-OPT-PRES-DUAL-3,Active Optative Present 3rd Person Dual
+141,142,8,28,ACT-OPT-PRES-PLUR-1,Active Optative Present 1st Person Plural
+142,143,8,29,ACT-OPT-PRES-PLUR-2,Active Optative Present 2nd Person Plural
+143,144,8,30,ACT-OPT-PRES-PLUR-3,Active Optative Present 3rd Person Plural
+144,145,8,31,ACT-OPT-PRET-SING-1,Active Optative Preterite 1st Person Singular
+145,146,8,32,ACT-OPT-PRET-SING-2,Active Optative Preterite 2nd Person Singular
+146,147,8,33,ACT-OPT-PRET-SING-3,Active Optative Preterite 3rd Person Singular
+147,148,8,34,ACT-OPT-PRET-DUAL-1,Active Optative Preterite 1st Person Dual
+148,149,8,35,ACT-OPT-PRET-DUAL-2,Active Optative Preterite 2nd Person Dual
+149,150,8,36,ACT-OPT-PRET-DUAL-3,Active Optative Preterite 3rd Person Dual
+150,151,8,37,ACT-OPT-PRET-PLUR-1,Active Optative Preterite 1st Person Plural
+151,152,8,38,ACT-OPT-PRET-PLUR-2,Active Optative Preterite 2nd Person Plural
+152,153,8,39,ACT-OPT-PRET-PLUR-3,Active Optative Preterite 3rd Person Plural
+153,154,8,40,PAS-IND-PRES-SING-1,Passive Indicative Present 1st Person Singular
+154,155,8,41,PAS-IND-PRES-SING-2,Passive Indicative Present 2nd Person Singular
+155,156,8,42,PAS-IND-PRES-SING-3,Passive Indicative Present 3rd Person Singular
+156,157,8,43,PAS-IND-PRES-DUAL-1,Passive Indicative Present 1st Person Dual
+157,158,8,44,PAS-IND-PRES-DUAL-2,Passive Indicative Present 2nd Person Dual
+158,159,8,45,PAS-IND-PRES-DUAL-3,Passive Indicative Present 3rd Person Dual
+159,160,8,46,PAS-IND-PRES-PLUR-1,Passive Indicative Present 1st Person Plural
+160,161,8,47,PAS-IND-PRES-PLUR-2,Passive Indicative Present 2nd Person Plural
+161,162,8,48,PAS-IND-PRES-PLUR-3,Passive Indicative Present 3rd Person Plural
+162,163,8,49,PAS-OPT-PRES-SING-1,Passive Optative Present 1st Person Singular
+163,164,8,50,PAS-OPT-PRES-SING-2,Passive Optative Present 2nd Person Singular
+164,165,8,51,PAS-OPT-PRES-SING-3,Passive Optative Present 3rd Person Singular
+165,166,8,52,PAS-OPT-PRES-DUAL-1,Passive Optative Present 1st Person Dual
+166,167,8,53,PAS-OPT-PRES-DUAL-2,Passive Optative Present 2nd Person Dual
+167,168,8,54,PAS-OPT-PRES-DUAL-3,Passive Optative Present 3rd Person Dual
+168,169,8,55,PAS-OPT-PRES-PLUR-1,Passive Optative Present 1st Person Plural
+169,170,8,56,PAS-OPT-PRES-PLUR-2,Passive Optative Present 2nd Person Plural
+170,171,8,57,PAS-OPT-PRES-PLUR-3,Passive Optative Present 3rd Person Plural
+171,172,8,58,ACT-IMP-PRES-SING-1,Active Imperative 1st Person Singular
+172,173,8,59,ACT-IMP-PRES-SING-2,Active Imperative 2nd Person Singular
+173,174,8,60,ACT-IMP-PRES-SING-3,Active Imperative 3rd Person Singular
+174,175,8,61,ACT-IMP-PRES-DUAL-1,Active Imperative 1st Person Dual
+175,176,8,62,ACT-IMP-PRES-DUAL-2,Active Imperative 2nd Person Dual
+176,177,8,63,ACT-IMP-PRES-DUAL-3,Active Imperative 3rd Person Dual
+177,178,8,64,ACT-IMP-PRES-PLUR-1,Active Imperative 1st Person Plural
+178,179,8,65,ACT-IMP-PRES-PLUR-2,Active Imperative 2nd Person Plural
+179,180,8,66,ACT-IMP-PRES-PLUR-3,Active Imperative 3rd Person Plural

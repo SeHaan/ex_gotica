@@ -1,0 +1,384 @@
+	Ref	POS	Morpheme	MorTag	Line
+0	<CA Mt 6:24>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ni manna ▶mag◀ twaim fraujam skalkinon ; unte jabai fijaiþ ainana , jah anþarana frijoþ ; aiþþau ainamma ufhauseiþ , iþ anþaramma frakann . ni ▶mag◀uþ guda skalkinon jah mammonin . 
+1	<CA Mt 6:24>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ni manna mag twaim fraujam skalkinon ; unte jabai fijaiþ ainana , jah anþarana frijoþ ; aiþþau ainamma ufhauseiþ , iþ anþaramma frakann . ni ▶maguþ◀ guda skalkinon jah mammonin . 
+2	<CA Mt 6:27>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	iþ ƕas izwara maurnands ▶mag◀ anaaukan ana wahstu seinana aleina aina ? 
+3	<CA Mt 7:18>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ni ▶mag◀ bagms þiuþeigs akrana ubila gataujan , nih bagms ubils akrana þiuþeiga gataujan . 
+4	<CA Mt 5:36>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	nih bi haubida þeinamma swarais , unte ni ▶magt◀ ain tagl ƕeit aiþþau swart gataujan . 
+5	<CA Mt 8:2>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	jah sai , manna þrutsfill habands durinnands inwait ina qiþands : frauja , jabai wileis , ▶magt◀ mik gahrainjan . 
+6	<CA Mt 8:28>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jah qimandin imma hindar marein in gauja Gairgaisaine , gamotidedun imma twai daimonarjos us hlaiwasnom rinnandans , sleidjai filu , swaswe ni ▶mahta◀ manna usleiþan þairh þana wig jainana . 
+7	<CA Mt 9:15>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	jah qaþ du im Iesus : ibai ▶magun◀ sunjus bruþfadis qainon und þata ƕeilos þei miþ im ist bruþfaþs ? iþ atgagggand dagos , þan afnimada af im sa bruþfaþs , jah þan fastand . 
+8	<CA Mt 9:28>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-1	Qimandin þan in garda duatiddjedun imma þai blindans jah qaþ im Iesus : ga~u~laubjats þatei ▶magjau◀ þata taujan ? Qeþun du imma : jai , frauja ! 
+9	<CA Mt 10:28>	Verb	V.prt.-prs.	WEAK-MASC-ACC-PLUR	jah ni ogeiþ izwis þans usqimandans leika þatainei , iþ saiwalai ni ▶magandans◀ usqiman , iþ ogeiþ mais þana magandan jah saiwalai jah leika fraqistjan in gaiainnan . 
+10	<CA Mt 10:28>	Verb	V.prt.-prs.	WEAK-MASC-ACC-SING	jah ni ogeiþ izwis þans usqimandans leika þatainei , iþ saiwalai ni ▶magandan◀s usqiman , iþ ogeiþ mais þana ▶magandan◀ jah saiwalai jah leika fraqistjan in gaiainnan . 
+11	<CA Jn 6:44>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ni manna ▶mag◀ qiman at mis , nibai atta saei sandida mik atþinsiþ ina , jah ik urraisja ina in þamma spedistin daga . 
+12	<CA Jn 6:52>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	þanuh sokun miþ sis misso Iudaieis qiþandans : ƕaiwa ▶mag◀ sa unsis leik giban du matjan ? 
+13	<CA Jn 6:60>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	þanuh managai gahausjandans þize siponje is qeþun : hardu ist þata waurd , ƕas ▶mag◀ þis hausjon ? 
+14	<CA Jn 6:65>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah qaþ : duþe qaþ izwis þatei ni ainshun ▶mag◀ qiman at mis , nibai ist atgiban imma fram attin meinamma . 
+15	<CA Jn 7:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ni ▶mag◀ so manaseþs fijan izwis , iþ mik fijaiþ ; unte ik weitwodja bi ins þatei waurstwa ize ubila sind . 
+16	<CA Jn 7:34>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	sokeiþ mik jah ni bigitiþ , jah þarei im ik , jus ni ▶maguþ◀ qiman . 
+17	<CA Jn 7:36>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ƕa sijai þata waurd , þatei qaþ : sokeiþ mik jah ni bigitiþ , jah þarei im ik , jus ni ▶maguþ◀ qiman ? 
+18	<CA Jn 8:21>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	þanuh qaþ aftra du im Iesus : ik galeiþa , jah sokeiþ mik , jah in frawaurhtai izwarai gadauþniþ . þadei ik gagga , jus ni ▶maguþ◀ qiman . 
+19	<CA Jn 8:22>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	qeþun þan Iudaieis : nibai usqimai sis silbin , ei qiþiþ : þadei ik gagga , jus ni ▶maguþ◀ qiman ? 
+20	<CA Jn 8:43>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	duƕe maþlein meina ni kunnuþ ? unte ni ▶maguþ◀ hausjan waurd mein . 
+21	<CA Jn 9:4>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ik skal waurkjan waurstwa þis sandjandins mik , unte dags ist ; qimiþ nahts , þa(unclear)n(/unclear)ei ni manna ▶mag◀ waurkjan . 
+22	<CA Jn 9:16>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	qeþun þan sumai þize Fareisaie : sa manna nist fram guda , þande sabbate daga ni witaiþ . sumaih qeþun : ƕaiwa ▶mag◀ manna frawaurhts swaleikos taiknins taujan ? jah missaqiss warþ miþ im . 
+23	<CA Jn 9:33>	Verb	V.prt.-prs.	ACT-OPT-PRET-SING-3	nih wesi sa fram guda , ni ▶mahtedi◀ taujan ni waiht . 
+24	<CA Jn 10:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	sumaih qeþun : þo waurda ni sind unhulþon habandins ; ibai ▶mag◀ unhulþo blindaim augona uslukan ? 
+25	<CA Jn 10:29>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	atta meins þatei fragaf mis , maizo allaim ist , jah ni aiw ainshun ▶mag◀ frawilwan þo us handau attins meinis . 
+26	<CA Jn 10:35>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	jabai jainans qaþ guda , du þaimei waurd gudis warþ , jah ni ▶maht◀ ist gatairan þata gamelido ; 
+27	<CA Jn 11:37>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	sumai þan ize qeþun : niu ▶mahta◀ sa izei uslauk augona þamma blindin gataujan ei jah sa ni gadauþnodedi ? 
+28	<CA Jn 12:39>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	duþþe ni ▶mahtedun◀ galaubjan ; unte aftra qaþ Esaeias : 
+29	<CA Jn 13:33>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	barnilona , nauh leitil mel miþ izwis im . sokeiþ mik , jah swaswe qaþ du Iudaium , ei þadei ik gagga , jus ni ▶maguþ◀ qiman , jah izwis qiþa nu . 
+30	<CA Jn 13:36>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	þanuh qaþ du imma Seimon Paitrus : frauja , ƕad gaggis ? andhafjands Iesus qaþ : þadei ik gagga , ni ▶magt◀ mik nu laistjan ; iþ biþe laisteis . 
+31	<CA Jn 13:37>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	þaruh Paitrus qaþ du imma : frauja , duƕe ni ▶mag◀ þuk laistjan nu ? saiwala meina faur þuk lagja . 
+32	<CA Jn 14:5>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	þaruh qaþ imma Þomas : frauja , ni witum ƕaþ gaggis , jah ƕaiwa ▶magum◀ þana wig kunnan ? 
+33	<CA Jn 14:17>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ahma sunjos , þanei so manaseiþs ni ▶mag◀ niman , unte ni saiƕiþ ina , nih kann ina ; iþ jus kunnuþ ina , unte is miþ izwis wisiþ jah in izwis ist . 
+34	<CA Jn 15:4>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	wisaiþ in mis jah ik in izwis . swe sa weinatains ni ▶mag◀ akran bairan af sis silbin , niba ist ana weinatriwa , swah nih jus , niba in mis sijuþ . 
+35	<CA Jn 15:5>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ik im þata weinatriu , iþ jus weinatainos ; saei wisiþ in mis jah ik in imma , swa bairiþ akran manag , þatei inuh mik ni ▶maguþ◀ taujan ni waiht . 
+36	<CA Jn 16:12>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	Nauh ganoh skal qiþan izwis , akei ni ▶maguþ◀ frabairan nu . 
+37	<CA Lk 1:17>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jah silba fauraqimid in andwairþja is in ahmin jah ▶mahtai◀ Haileiins gawandjan hairtona attane du barnam jah untalans in frodein garaihtaize , manwjan fraujin managein gafahrida . 
+38	<CA Lk 1:17>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jah silba fauraqimid in andwairþja is in ahmin jah ▶mahtai◀ Haileiins gawandjan hairtona attane du barnam jah untalans in frodein garaihtaize , manwjan fraujin managein gafahrida . 
+39	<CA Lk 1:20>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah sai sijais þahands jah ni ▶magands◀ rodjan und þana dag ei wairþai þata , duþe ei ni galaubides waurdam meinaim , þoei usfulljanda in mela seinamma . 
+40	<CA Lk 1:22>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+41	<CA Lk 1:22>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+42	<CA Lk 1:22>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+43	<CA Lk 1:22>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+44	<CA Lk 1:22>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+45	<CA Lk 1:22>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+46	<CA Lk 1:22>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	usgaggands þan ni ▶mahta◀ du im rodjan , jah froþun þammei siun gasaƕ in alh ; jah silba was bandwjands im jah (add)ga(add)was dumbs . 
+47	<CA Lk 1:35>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah andhafjands sa aggilus qaþ du izai : ahma weihs atgaggiþ ana þuk , jah ▶mahts◀ hauhistins ufarskadweid þus , duþe ei jah saei gabairada weihs haitada sunus gudis . 
+48	<CA Lk 3:8>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	waurkjaiþ nu akran wairþata idreigos jah ni duginnaiþ qiþan in izwis : attan aigum Abraham ; qiþa auk izwis þatei ▶mag◀ guþ us stainam þaim urraisjan barna Abrahama . 
+49	<CA Lk 3:8>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	waurkjaiþ nu akran wairþata idreigos jah ni duginnaiþ qiþan in izwis : attan aigum Abraham ; qiþa auk izwis þatei ▶mag◀ guþ us stainam þaim urraisjan barna Abrahama . 
+50	<CA Lk 4:14>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jah gawandida sik Iesus in ▶mahtai◀ ahmins in Galeilaian , jah meriþa urrann and all gawi bisitande bi ina . 
+51	<CA Lk 4:14>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jah gawandida sik Iesus in ▶mahtai◀ ahmins in Galeilaian , jah meriþa urrann and all gawi bisitande bi ina . 
+52	<CA Lk 4:36>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jah warþ afslauþnan ana allans , jah rodidedun du sis misso qiþandans : ƕa waurde þata , þatei miþ waldufnja jah ▶mahtai◀ anabiudiþ þaim unhrainjam ahmam jah usgaggand ? 
+53	<CA Lk 4:36>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jah warþ afslauþnan ana allans , jah rodidedun du sis misso qiþandans : ƕa waurde þata , þatei miþ waldufnja jah ▶mahtai◀ anabiudiþ þaim unhrainjam ahmam jah usgaggand ? 
+54	<CA Lk 5:12>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	jah warþ , miþþanei was is in ainai baurge , jah sai , manna fulls þrutsfillis jah gasaiƕands Iesu driusands ana andwairþi bad ina qiþands : frauja , jabai wileis , ▶magt◀ mik gahrainjan . 
+55	<CA Lk 5:17>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah warþ in ainamma dage , jah is was laisjands . jah wesun sitandans Fareisaieis jah witodalaisarjos , þaiei wesun gaqumanai us allamma haimo Galeilaias jah Iudaias jah Iairusaulwmon ; jah ▶mahts◀ fraujins was du hailjan ins . 
+56	<CA Lk 5:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah dugunnun þagkjan þai bokarjos jah Fareisaieis qiþandans : ƕas ist sa , saei rodeiþ naiteinins ? ƕas ▶mag◀ afletan frawaurhtins , alja ains guþ ? 
+57	<CA Lk 5:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah dugunnun þagkjan þai bokarjos jah Fareisaieis qiþandans : ƕas ist sa , saei rodeiþ naiteinins ? ƕas ▶mag◀ afletan frawaurhtins , alja ains guþ ? 
+58	<CA Lk 6:19>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah alla managei sokidedun attekan imma , unte ▶mahts◀ af imma usiddja jah ganasida allans . 
+59	<CA Lk 6:39>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	qaþuh þan gajukon im : ibai ▶mag◀ blinds blindana tiuhan ? niu bai in dal gadriusand ? 
+60	<CA Lk 6:39>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	qaþuh þan gajukon im : ibai ▶mag◀ blinds blindana tiuhan ? niu bai in dal gadriusand ? 
+61	<CA Lk 6:42>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	aiþþau ƕaiwa ▶magt◀ qiþan du broþr þeinamma : broþar let , ik uswairpa gramsta þamma in augin þeinamma , silba in augin þeinamma anza ni gaumjands ? liuta , uswairp faurþis þamma anza us augin þeinamma , jah þan gaumjais uswairpan gramsta þamma in augin broþrs þeinis . 
+62	<CA Lk 6:48>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+63	<CA Lk 6:48>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+64	<CA Lk 6:48>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+65	<CA Lk 6:48>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+66	<CA Lk 6:48>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+67	<CA Lk 6:48>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+68	<CA Lk 6:48>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	galeiks ist mann timrjandin razn , saei grob jah gadiupida jah gasatida grunduwaddjau ana staina . at garunjon þan waurþanai bistagq aƕa bi jainamma razna jah ni ▶mahta◀ gawagjan ita ; gasulid auk was ana þamma staina . 
+69	<CA Lk 8:19>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	atiddjedun þan du imma aiþei jah broþrjus is jah ni ▶mahtedun◀ andqiþan imma faura managein . 
+70	<CA Lk 8:43>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+71	<CA Lk 8:43>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+72	<CA Lk 8:43>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+73	<CA Lk 8:43>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+74	<CA Lk 8:43>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+75	<CA Lk 8:43>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+76	<CA Lk 8:43>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	jah qino wisandei in runa bloþis jera twalif , soei in lekjans fraqam allamma aigina seinamma , jah ni ▶mahta◀ was fram ainomehun galeikinon , 
+77	<CA Lk 8:46>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	þaruh is qaþ : taitok mis sums ; ik auk ufkunþa ▶maht◀ usgaggandein af mis . 
+78	<CA Lk 8:46>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	þaruh is qaþ : taitok mis sums ; ik auk ufkunþa ▶maht◀ usgaggandein af mis . 
+79	<CA Lk 9:1>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	Gahaitands þan þans twalif apaustauluns atgaf im ▶maht◀ jah waldufni ufar allaim unhulþom jah sauhtins gahailjan . 
+80	<CA Lk 9:1>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	Gahaitands þan þans twalif apaustauluns atgaf im ▶maht◀ jah waldufni ufar allaim unhulþom jah sauhtins gahailjan . 
+81	<CA Lk 9:40>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	jah baþ siponjans þeinans ei usdribeina imma , jah ni ▶mahtedun◀ . 
+82	<CA Lk 9:42>	Verb	V.prt.-prs.	ACT-IND-PRES-DUAL-1	þaruh nauhþan duatgaggandin imma , gabrak ina sa unhulþa jah tahida . gaƕotida þan Iesus ahmin þamma unhrainjin jah gahailida þana ▶magu◀ jah atgaf ina attin is . 
+83	<CA Lk 9:43>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-1	usfilmans þan waurþun allai ana þizai mikilein gudis . at allaim þan sildaleikjandam bi alla þoei gatawida Iesus qaþ Paitrus : frauja , duƕe weis ni ▶mahtedum◀ usdreiban þamma ? iþ Iesus qaþ : þata kuni ni usgaggiþ , nibai in bidom jah in fastubnja . qaþ þan du siponjam seinaim : 
+84	<CA Lk 9:50>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	jah qaþ du im Iesus : ni warjiþ , unte saei nist wiþra izwis , faur izwis ist . ni ainshun auk ist manne , saei ni gawaurkjai ▶maht◀ in namin meinamma . 
+85	<CA Lk 9:50>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	jah qaþ du im Iesus : ni warjiþ , unte saei nist wiþra izwis , faur izwis ist . ni ainshun auk ist manne , saei ni gawaurkjai ▶maht◀ in namin meinamma . 
+86	<CA Lk 10:19>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	sai , atgaf izwis waldufni trudan ufaro waurme jah skaurpjono jah ana allai ▶mahtai◀ fijandis , jah waihte ainohun izwis ni gaskaþjiþ . 
+87	<CA Lk 10:19>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	sai , atgaf izwis waldufni trudan ufaro waurme jah skaurpjono jah ana allai ▶mahtai◀ fijandis , jah waihte ainohun izwis ni gaskaþjiþ . 
+88	<CA Lk 10:27>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	iþ is andhafjands qaþ : frijos fraujan guþ þeinana us allamma hairtin þeinamma jah us allai saiwalai þeinai jah us allai ▶mahtai◀ þeinai jah us allai gahugdai þeinai , jah neƕundjan þeinana swe þuk silban . 
+89	<CA Lk 10:27>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	iþ is andhafjands qaþ : frijos fraujan guþ þeinana us allamma hairtin þeinamma jah us allai saiwalai þeinai jah us allai ▶mahtai◀ þeinai jah us allai gahugdai þeinai , jah neƕundjan þeinana swe þuk silban . 
+90	<CA Lk 14:20>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah sums qaþ : qen liugaida jah duþe ni ▶mag◀ qiman . 
+91	<CA Lk 14:20>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah sums qaþ : qen liugaida jah duþe ni ▶mag◀ qiman . 
+92	<CA Lk 14:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jabai ƕas gaggiþ du mis jah ni fijaiþ attan seinana jah aiþein jah qen jah barna jah broþruns jah swistruns , nauhuþ~þan seina silbins saiwala , ni ▶mag◀ meins siponeis wisan . 
+93	<CA Lk 14:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jabai ƕas gaggiþ du mis jah ni fijaiþ attan seinana jah aiþein jah qen jah barna jah broþruns jah swistruns , nauhuþ~þan seina silbins saiwala , ni ▶mag◀ meins siponeis wisan . 
+94	<CA Lk 14:27>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah saei ni bairiþ galgan seinana jah gaggai afar mis , ni ▶mag◀ wisan meins siponeis . 
+95	<CA Lk 14:27>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah saei ni bairiþ galgan seinana jah gaggai afar mis , ni ▶mag◀ wisan meins siponeis . 
+96	<CA Lk 14:29>	Verb	V.prt.-prs.	ACT-OPT-PRET-SING-3	ibai aufto , biþe gasatidedi grunduwaddju jah ni ▶mahtedi◀ ustiuhan , allai þai gasaiƕandans duginnaina bilaikan ina , 
+97	<CA Lk 14:30>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+98	<CA Lk 14:30>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+99	<CA Lk 14:30>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+100	<CA Lk 14:30>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+101	<CA Lk 14:30>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+102	<CA Lk 14:30>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+103	<CA Lk 14:30>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	qiþandans þatei sa manna dustodida timbrjan jah ni ▶mahta◀ ustiuhan . 
+104	<CA Lk 14:33>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	swah nu ƕarjizuh izwara saei ni afqiþiþ allamma aigina seinamma , ni ▶mag◀ wisan meins siponeis . 
+105	<CA Lk 14:33>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	swah nu ƕarjizuh izwara saei ni afqiþiþ allamma aigina seinamma , ni ▶mag◀ wisan meins siponeis . 
+106	<CA Lk 16:2>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	jah atwopjands ina qaþ du imma : duƕe þata hausja fram þus ? usgif raþjon fauragaggjis þeinis , ni ▶magt◀ auk ju þanamais fauragaggja wisan . 
+107	<CA Lk 16:3>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	qaþ þan in sis sa fauragaggja : ƕa taujau , þandei frauja meins afnimiþ fauragaggi af mis ? graban ni ▶mag◀ , bidjan skama mik . 
+108	<CA Lk 16:3>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	qaþ þan in sis sa fauragaggja : ƕa taujau , þandei frauja meins afnimiþ fauragaggi af mis ? graban ni ▶mag◀ , bidjan skama mik . 
+109	<CA Lk 16:13>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ni ainshun þiwe ▶mag◀ twaim fraujam skalkinon ; andizuh ainana fijaiþ jah anþarana frijoþ , aiþþau ainamma andtiloþ , iþ anþaramma frakann ; ni ▶mag◀uþ guda skalkinon jah faihuþraihna . 
+110	<CA Lk 16:13>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	ni ainshun þiwe ▶mag◀ twaim fraujam skalkinon ; andizuh ainana fijaiþ jah anþarana frijoþ , aiþþau ainamma andtiloþ , iþ anþaramma frakann ; ni ▶mag◀uþ guda skalkinon jah faihuþraihna . 
+111	<CA Lk 16:13>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ni ainshun þiwe mag twaim fraujam skalkinon ; andizuh ainana fijaiþ jah anþarana frijoþ , aiþþau ainamma andtiloþ , iþ anþaramma frakann ; ni ▶maguþ◀ guda skalkinon jah faihuþraihna . 
+112	<CA Lk 18:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	qeþun þan þai gahausjandans : an ƕas ▶mag◀ ganisan ? 
+113	<CA Lk 18:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	qeþun þan þai gahausjandans : an ƕas ▶mag◀ ganisan ? 
+114	<CA Lk 19:3>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+115	<CA Lk 19:3>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+116	<CA Lk 19:3>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+117	<CA Lk 19:3>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+118	<CA Lk 19:3>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+119	<CA Lk 19:3>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+120	<CA Lk 19:3>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	jah sokida gasaiƕan Iesu , ƕas wesi , jah ni ▶mahta◀ faura managein , unte wahstau leitils was . 
+121	<CA Lk 20:26>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	jah ni ▶mahtedun◀ gafahan is waurde in andwairþja manageins jah sildaleikjandans andawaurde is gaþahaidedun . 
+122	<CA Lk 20:36>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	nih allis gaswiltan þanaseiþs ▶magun◀ , ibnans aggilum auk sind jah sunjus sind gudis , usstassais sunjus wisandans . 
+123	<CA Mk 1:40>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	jah qam at imma þrutsfill habands , bidjands ina jah kniwam knussjands jah qiþands du imma þatei jabai wileis , ▶magt◀ mik gahrainjan . 
+124	<CA Mk 1:45>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+125	<CA Mk 1:45>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+126	<CA Mk 1:45>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+127	<CA Mk 1:45>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+128	<CA Mk 1:45>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+129	<CA Mk 1:45>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+130	<CA Mk 1:45>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	iþ is usgaggands dugann merjan filu jah usqiþan þata waurd , swaswe is juþan ni ▶mahta◀ andaugjo in baurg galeiþan , ak uta ana auþjaim stadim was ; jah iddjedun du imma allaþro . 
+131	<CA Mk 2:4>	Verb	V.prt.-prs.	WEAK-MASC-NOM-PLUR	jah ni ▶magandans◀ neƕa qiman imma faura manageim , andhulidedun hrot þarei was Iesus jah usgrabandans insailidedun þata badi jah fralailotun ana þammei lag sa usliþa . 
+132	<CA Mk 2:4>	Verb	V.prt.-prs.	WEAK-MASC-ACC-PLUR	jah ni ▶magandans◀ neƕa qiman imma faura manageim , andhulidedun hrot þarei was Iesus jah usgrabandans insailidedun þata badi jah fralailotun ana þammei lag sa usliþa . 
+133	<CA Mk 2:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ƕa sa swa rodeiþ naiteinins ? ƕas ▶mag◀ afletan frawaurhtins , niba ains guþ ? 
+134	<CA Mk 2:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	ƕa sa swa rodeiþ naiteinins ? ƕas ▶mag◀ afletan frawaurhtins , niba ains guþ ? 
+135	<CA Mk 2:19>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	jah qaþ im Iesus : ibai ▶magun◀ sunjus bruþfadis , und þatei miþ im ist bruþfaþs , fastan ? swa lagga ƕeila swe miþ sis haband bruþfad , ni ▶magun◀ fastan . 
+136	<CA Mk 2:19>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	jah qaþ im Iesus : ibai ▶magun◀ sunjus bruþfadis , und þatei miþ im ist bruþfaþs , fastan ? swa lagga ƕeila swe miþ sis haband bruþfad , ni ▶magun◀ fastan . 
+137	<CA Mk 3:20>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	jah atiddjedun in gard , jah gaïddja sik aftra managei , swaswe ni ▶mahtedun◀ nih hlaif matjan . 
+138	<CA Mk 3:23>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah athaitands ins in gajukom qaþ du im : ƕaiwa ▶mag◀ Satanas Satanan uswairpan ? 
+139	<CA Mk 3:23>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah athaitands ins in gajukom qaþ du im : ƕaiwa ▶mag◀ Satanas Satanan uswairpan ? 
+140	<CA Mk 3:24>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah jabai þiudangardi wiþra sik gadailjada , ni ▶mag◀ standan so þiudangardi jaina . 
+141	<CA Mk 3:24>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah jabai þiudangardi wiþra sik gadailjada , ni ▶mag◀ standan so þiudangardi jaina . 
+142	<CA Mk 3:25>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah jabai gards wiþra sik gadailjada , ni ▶mag◀ standan sa gards jains . 
+143	<CA Mk 3:25>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah jabai gards wiþra sik gadailjada , ni ▶mag◀ standan sa gards jains . 
+144	<CA Mk 3:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah jabai Satana usstoþ ana sik silban jah gadailiþs warþ , ni ▶mag◀ gastandan , ak andi habaiþ . 
+145	<CA Mk 3:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah jabai Satana usstoþ ana sik silban jah gadailiþs warþ , ni ▶mag◀ gastandan , ak andi habaiþ . 
+146	<CA Mk 3:27>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	ni manna ▶mag◀ kasa swinþis galeiþands in gard is wilwan , niba faurþis þana swinþan gabindiþ ; jah þan þana gard is diswilwai . 
+147	<CA Mk 3:27>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	ni manna ▶mag◀ kasa swinþis galeiþands in gard is wilwan , niba faurþis þana swinþan gabindiþ ; jah þan þana gard is diswilwai . 
+148	<CA Mk 4:32>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	jah þan saiada , urrinniþ jah wairþiþ allaize grase maist jah gataujiþ astans mikilans , swaswe ▶magun◀ uf skadau is fuglos himinis gabauan . 
+149	<CA Mk 4:33>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	jah swaleikaim managaim gajukom rodida du im þata waurd , swaswe ▶mahtedun◀ hausjon . 
+150	<CA Mk 5:3>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+151	<CA Mk 5:3>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+152	<CA Mk 5:3>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+153	<CA Mk 5:3>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+154	<CA Mk 5:3>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+155	<CA Mk 5:3>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+156	<CA Mk 5:3>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	saei bauain habaida in aurahjom : jah ni naudibandjom eisarneinaim manna ▶mahta◀ ina gabindan . 
+157	<CA Mk 5:4>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+158	<CA Mk 5:4>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+159	<CA Mk 5:4>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+160	<CA Mk 5:4>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+161	<CA Mk 5:4>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+162	<CA Mk 5:4>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+163	<CA Mk 5:4>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	unte is ufta eisarnam bi fotuns gabuganaim jah naudibandjom eisarneinaim gabundans was jah galausida af sis þos naudibandjos jah þo ana fotum eisarna gabrak , jah manna ni ▶mahta◀ ina gatamjan . 
+164	<CA Mk 5:30>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	jah sunsaiw Iesus ufkunþa in sis silbin þo us sis ▶maht◀ usgaggandein ; gawandjands sik in managein qaþ : ƕas mis taitok wastjom ? 
+165	<CA Mk 5:30>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	jah sunsaiw Iesus ufkunþa in sis silbin þo us sis ▶maht◀ usgaggandein ; gawandjands sik in managein qaþ : ƕas mis taitok wastjom ? 
+166	<CA Mk 6:5>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+167	<CA Mk 6:5>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+168	<CA Mk 6:5>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+169	<CA Mk 6:5>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+170	<CA Mk 6:5>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+171	<CA Mk 6:5>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+172	<CA Mk 6:5>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jah ni ▶mahta◀ jainar ainohun mahte gataujan , niba fawaim siukaim handuns galagjands gahailida . 
+173	<CA Mk 6:19>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+174	<CA Mk 6:19>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+175	<CA Mk 6:19>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+176	<CA Mk 6:19>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+177	<CA Mk 6:19>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+178	<CA Mk 6:19>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+179	<CA Mk 6:19>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	iþ so Herodia naiw imma jah wilda imma usqiman jah ni ▶mahta◀ ; 
+180	<CA Mk 7:15>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-3	ni waihts ist utaþro mans inngaggando in ina þatei ▶magi◀ ina gamainjan ; ak þata utgaggando us mann þata ist þata gamainjando mannan . 
+181	<CA Mk 7:18>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah qaþ du im : swa jah jus unwitans sijuþ ? ni fraþjiþ þammei all þata utaþro inngaggando in mannan ni ▶mag◀ ina gamainjan : 
+182	<CA Mk 7:18>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah qaþ du im : swa jah jus unwitans sijuþ ? ni fraþjiþ þammei all þata utaþro inngaggando in mannan ni ▶mag◀ ina gamainjan : 
+183	<CA Mk 7:24>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+184	<CA Mk 7:24>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+185	<CA Mk 7:24>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+186	<CA Mk 7:24>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+187	<CA Mk 7:24>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+188	<CA Mk 7:24>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+189	<CA Mk 7:24>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni ▶mahta◀ galaugnjan . 
+190	<CA Mk 8:4>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah andhofun imma siponjos is : ƕaþro þans ▶mag◀ ƕas gasoþjan hlaibam ana auþidai ? 
+191	<CA Mk 8:4>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah andhofun imma siponjos is : ƕaþro þans ▶mag◀ ƕas gasoþjan hlaibam ana auþidai ? 
+192	<CA Mk 9:1>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	Jah qaþ du im : amen , qiþa izwis þatei sind sumai þize her standandane , þai ize ni kausjand dauþaus , unte gasaiƕand þiudinassu gudis qumanana in ▶mahtai◀ . 
+193	<CA Mk 9:1>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	Jah qaþ du im : amen , qiþa izwis þatei sind sumai þize her standandane , þai ize ni kausjand dauþaus , unte gasaiƕand þiudinassu gudis qumanana in ▶mahtai◀ . 
+194	<CA Mk 9:3>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah wastjos is waurþun glitmunjandeins , ƕeitos swe snaiws , swaleikos swe wullareis ana airþai ni ▶mag◀ gaƕeitjan . 
+195	<CA Mk 9:3>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah wastjos is waurþun glitmunjandeins , ƕeitos swe snaiws , swaleikos swe wullareis ana airþai ni ▶mag◀ gaƕeitjan . 
+196	<CA Mk 9:18>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-3	jah þisƕaruh þei ina gafahiþ , gawairpiþ ina , jah ƕaþjiþ jah kriustiþ tunþuns seinans jah gastaurkniþ ; jah qaþ siponjam þeinaim ei usdreibeina ina , jah ni ▶mahtedun◀ . 
+197	<CA Mk 9:22>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-2	jah ufta ina jah in fon atwarp jah in wato , ei usqistidedi imma ; akei jabai ▶mageis◀ , hilp unsara , gableiþjands unsis . 
+198	<CA Mk 9:23>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-2	iþ Iesus qaþ du imma þata jabai ▶mageis◀ galaubjan ; allata mahteig þamma galaubjandin . 
+199	<CA Mk 9:28>	Verb	V.prt.-prs.	ACT-IND-PRET-PLUR-1	jah galeiþandan ina in gard , siponjos is frehun ina sundro : duƕe weis ni ▶mahtedum◀ usdreiban þana ? 
+200	<CA Mk 9:29>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah qaþ du im : þata kuni in waihtai ni ▶mag◀ usgaggan , niba in bidai jah fastubnja . 
+201	<CA Mk 9:29>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah qaþ du im : þata kuni in waihtai ni ▶mag◀ usgaggan , niba in bidai jah fastubnja . 
+202	<CA Mk 9:39>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	iþ is qaþ : ni warjiþ imma ; ni mannahun auk ist saei taujiþ ▶maht◀ in namin meinamma jah magi sprauto ubilwaurdjan mis ; 
+203	<CA Mk 9:39>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	iþ is qaþ : ni warjiþ imma ; ni mannahun auk ist saei taujiþ ▶maht◀ in namin meinamma jah magi sprauto ubilwaurdjan mis ; 
+204	<CA Mk 9:39>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-3	iþ is qaþ : ni warjiþ imma ; ni mannahun auk ist saei taujiþ maht in namin meinamma jah ▶magi◀ sprauto ubilwaurdjan mis ; 
+205	<CA Mk 10:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	iþ eis mais usgeisnodedun qiþandans du sis misso : jah ƕas ▶mag◀ ganisan ? 
+206	<CA Mk 10:26>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	iþ eis mais usgeisnodedun qiþandans du sis misso : jah ƕas ▶mag◀ ganisan ? 
+207	<CA Mk 10:39>	Verb	V.prt.-prs.	ACT-IND-PRES-DUAL-1	iþ eis qeþun du imma : ▶magu◀ . iþ Iesus qaþuh du im : sweþauh þana stikl þanei ik driggka , driggkats jah þizai daupeinai þizaiei ik daupjada daupjanda ; 
+208	<CA Mk 12:24>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	jah andhafjands Iesus qaþ du im : niu duþe airzjai sijuþ , ni kunnandans mela nih ▶maht◀ gudis ? 
+209	<CA Mk 12:24>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	jah andhafjands Iesus qaþ du im : niu duþe airzjai sijuþ , ni kunnandans mela nih ▶maht◀ gudis ? 
+210	<CA Mk 12:30>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jah frijos fraujan guþ þeinana us allamma hairtin þeinamma jah us allai saiwalai þeinai jah us allai gahugdai þeinai jah us allai ▶mahtai◀ þeinai . so frumista anabusns . 
+211	<CA Mk 12:30>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jah frijos fraujan guþ þeinana us allamma hairtin þeinamma jah us allai saiwalai þeinai jah us allai gahugdai þeinai jah us allai ▶mahtai◀ þeinai . so frumista anabusns . 
+212	<CA Mk 12:33>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jah þata du frijon ina us allamma hairtin jah us allamma fraþja jah us allai saiwalai jah us allai ▶mahtai◀ , jah þata du frijon neƕundjan swe sik silban managizo ist allaim þaim alabrunstim jah saudim . 
+213	<CA Mk 12:33>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jah þata du frijon ina us allamma hairtin jah us allamma fraþja jah us allai saiwalai jah us allai ▶mahtai◀ , jah þata du frijon neƕundjan swe sik silban managizo ist allaim þaim alabrunstim jah saudim . 
+214	<CA Mk 13:26>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jah þan gasaiƕand sunu mans qimandan in milhmam miþ ▶mahtai◀ managai jah wulþau . 
+215	<CA Mk 13:26>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jah þan gasaiƕand sunu mans qimandan in milhmam miþ ▶mahtai◀ managai jah wulþau . 
+216	<CA Mk 14:5>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	▶maht◀ wesi auk þata balsan frabugjan in managizo þau þrija hunda skatte jah giban unledaim . jah andstaurraidedun þo . 
+217	<CA Mk 14:5>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	▶maht◀ wesi auk þata balsan frabugjan in managizo þau þrija hunda skatte jah giban unledaim . jah andstaurraidedun þo . 
+218	<CA Mk 14:7>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	sinteino auk þans unledans habaiþ miþ izwis , jah þan wileiþ , ▶maguþ◀ im waila taujan ; iþ mik ni sinteino habaiþ . 
+219	<CA Mk 15:31>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	samaleiko jah þai auhumistans gudjans bilaikandans ina miþ sis misso miþ þaim bokarjam qeþun : anþarans ganasida , iþ sik silban ni ▶mag◀ ganasjan . 
+220	<CA Mk 15:31>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	samaleiko jah þai auhumistans gudjans bilaikandans ina miþ sis misso miþ þaim bokarjam qeþun : anþarans ganasida , iþ sik silban ni ▶mag◀ ganasjan . 
+221	<A Rom 8:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	unte fraþi leikis fijands du guda ; witoda gudis ni ufhauseiþ , iþ ni ▶mag◀ : 
+222	<A Rom 8:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	unte fraþi leikis fijands du guda ; witoda gudis ni ufhauseiþ , iþ ni ▶mag◀ : 
+223	<A Rom 8:8>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	aþþan þai in leika wisandans guda galeikan ni ▶magun◀ . 
+224	<A Rom 8:39>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-3	nih hauhiþa nih diupiþa nih gaskafts (unclear)anþara(/unclear)magi ▶uns◀ afskaidan af friaþwai gudis þizai in Xristau Iesu , fraujin ▶uns◀aramma . 
+225	<A Rom 9:17>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	qiþiþ auk þata gamelido du Faraoni , (unclear)unte(/unclear)(unclear)in(/unclear)(unclear)þize(/unclear)(unclear)jah(/unclear)(unclear)raisida(/unclear)þuk , ei gabairhtjau bi þus maht ▶mein◀a jah gateihaidau namo ▶mein◀ and alla airþa . 
+226	<A Rom 9:17>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	qiþiþ auk þata gamelido du Faraoni , (unclear)unte(/unclear)(unclear)in(/unclear)(unclear)þize(/unclear)(unclear)jah(/unclear)(unclear)raisida(/unclear)þuk , ei gabairhtjau bi þus maht ▶mein◀a jah gateihaidau namo ▶mein◀ and alla airþa . 
+227	<A Rom 12:18>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-3	jabai ▶magi◀ wairþan us izwis , miþ allaim mannam gawairþi habandans . 
+228	<Car Rom 12:18>	Verb	V.prt.-prs.	ACT-OPT-PRES-SING-3	jabai ▶magi◀ wairþan us izwis , miþ allaim mannam gawairþi habandans . 
+229	<A 1Cor 1:18>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	unte þata waurd galgins þaim fralusnandam dwaliþa ist , iþ þaim ganisandam ▶mahts◀ gudis ist . 
+230	<A 1Cor 1:24>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	iþ þaim galaþodam Iudaie jah þiudo Xristu , gudis ▶maht◀ jah gudis handugein . 
+231	<A 1Cor 1:24>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	iþ þaim galaþodam Iudaie jah þiudo Xristu , gudis ▶maht◀ jah gudis handugein . 
+232	<A 1Cor 5:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in namin fraujins unsaris Iesuis Xristaus , samaþ gagaggandam izwis jah meinamma ahmin , miþ ▶mahtai◀ fraujins unsaris Iesuis Xristaus , 
+233	<A 1Cor 5:4>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in namin fraujins unsaris Iesuis Xristaus , samaþ gagaggandam izwis jah meinamma ahmin , miþ ▶mahtai◀ fraujins unsaris Iesuis Xristaus , 
+234	<A 1Cor 7:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	skalks galaþoþs wast , ni karos ; akei þauhjabai ▶magt◀ freis wairþan , mais brukei . 
+235	<A 1Cor 10:21>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ni ▶maguþ◀ stikl fraujins drigkan jah stikl skohsle ; ni ▶maguþ◀ biudis fraujins fairaihan jab~biudis skohsle . 
+236	<A 1Cor 10:21>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ni ▶maguþ◀ stikl fraujins drigkan jah stikl skohsle ; ni ▶maguþ◀ biudis fraujins fairaihan jab~biudis skohsle . 
+237	<A 1Cor 12:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	niþ~þan ▶mag◀ augo qiþan du handau : þeina ni þarf , aiþþau aftra haubiþ du fotum : iggqara ni þarf ; 
+238	<A 1Cor 12:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	niþ~þan ▶mag◀ augo qiþan du handau : þeina ni þarf , aiþþau aftra haubiþ du fotum : iggqara ni þarf ; 
+239	<A 1Cor 15:50>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	þata auk qiþa , broþrjus , þei leik jah bloþ þiudinassu gudis ganiman ni ▶magun◀ , nih riurei unriureins arbjo wairþiþ . 
+240	<B 1Cor 15:50>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	þata auk qiþa , broþrjus , þei leik jah bloþ þiudinassu gudis ganiman ni ▶magun◀ , nih riurei unriureins arbjo wairþiþ . 
+241	<A 1Cor 15:56>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	aþþan gazds dauþaus frawaurhts , iþ ▶mahts◀ frawaurhtais witoþ . 
+242	<B 1Cor 15:56>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	aþþan gazds dauþaus frawaurhts , iþ ▶mahts◀ frawaurhtais witoþ . 
+243	<B 2Cor 1:4>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-1	saei gaþrafstida uns ana allai aglon unsarai , ei ▶mageima◀ weis gaþrafstjan þans in allaim aglom þairh þo gaþlaiht þizaiei gaþrafstidai sijum silbans fram guda . 
+244	<B 2Cor 1:8>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	unte ni wileima izwis unweis(unclear)ans(/unclear) , broþrjus , bi aglon unsara þo waurþanon uns in Asiai , unte ufarassau kauridai wesum ufar ▶maht◀ , swaswe skamaidedeina uns jah liban . 
+245	<B 2Cor 1:8>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	unte ni wileima izwis unweis(unclear)ans(/unclear) , broþrjus , bi aglon unsara þo waurþanon uns in Asiai , unte ufarassau kauridai wesum ufar ▶maht◀ , swaswe skamaidedeina uns jah liban . 
+246	<A 2Cor 3:7>	Verb	V.prt.-prs.	ACT-OPT-PRET-PLUR-3	aþþan jabai andbahti dauþaus in gameleinim gafrisahtiþ in stainam warþ wulþag , swaei ni ▶mahtedeina◀ sunjus Israelis fairweitjan du wlita Mosezis in wulþaus wlitis is þis gataurnandins , 
+247	<B 2Cor 3:7>	Verb	V.prt.-prs.	ACT-OPT-PRET-PLUR-3	aþþan jabai andbahti dauþaus in gameleinim gafrisahtiþ in stainam warþ wulþag , swaei ni ▶mahte◀ sunjus Israelis fairweitjan du wlita Mosezis in wulþaus wlitis is þis gataurnandins , 
+248	<A 2Cor 6:7>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in waurda sunjos , in ▶mahtai◀ gudis , þairh wepna garaihteins taihswona jah hleidumon , 
+249	<A 2Cor 6:7>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in waurda sunjos , in ▶mahtai◀ gudis , þairh wepna garaihteins taihswona jah hleidumon , 
+250	<B 2Cor 6:7>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in waurda sunjos , in ▶mahtai◀ gudis , þairh wepna garaihteins taihswona jah hleidumona , 
+251	<B 2Cor 6:7>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in waurda sunjos , in ▶mahtai◀ gudis , þairh wepna garaihteins taihswona jah hleidumona , 
+252	<A 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	unte bi ▶mahtai◀ , weitwodja , jah ufar maht silbawiljos wesun , 
+253	<A 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	unte bi ▶mahtai◀ , weitwodja , jah ufar maht silbawiljos wesun , 
+254	<A 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	unte bi ▶maht◀ai , weitwodja , jah ufar ▶maht◀ silbawiljos wesun , 
+255	<A 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	unte bi ▶maht◀ai , weitwodja , jah ufar ▶maht◀ silbawiljos wesun , 
+256	<B 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	unte bi ▶mahtai◀ , weitwodja , jah ufar maht silbaw(unclear)i(/unclear)ljos wesun , 
+257	<B 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	unte bi ▶mahtai◀ , weitwodja , jah ufar maht silbaw(unclear)i(/unclear)ljos wesun , 
+258	<B 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	unte bi ▶maht◀ai , weitwodja , jah ufar ▶maht◀ silbaw(unclear)i(/unclear)ljos wesun , 
+259	<B 2Cor 8:3>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	unte bi ▶maht◀ai , weitwodja , jah ufar ▶maht◀ silbaw(unclear)i(/unclear)ljos wesun , 
+260	<A 2Cor 12:9>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah qaþ mis : ganah þuk ansts meina , unte ▶mahts◀ in siukein ustiuhada . filu gabaurjaba nu mais ƕopa in siukeim meinaim , ei ufarhleiþrjai ana mis ▶mahts◀ Xristaus . 
+261	<A 2Cor 12:9>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah qaþ mis : ganah þuk ansts meina , unte ▶mahts◀ in siukein ustiuhada . filu gabaurjaba nu mais ƕopa in siukeim meinaim , ei ufarhleiþrjai ana mis ▶mahts◀ Xristaus . 
+262	<B 2Cor 12:9>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah qaþ mis : ganah þuk ansts meina , unte ▶mahts◀ in siukeim ustiuhada . filu gabaurjaba nu mais ƕopa in siukeim meinaim , ei ufarhleiþrjai ana mis ▶mahts◀ Xristaus . 
+263	<B 2Cor 12:9>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	jah qaþ mis : ganah þuk ansts meina , unte ▶mahts◀ in siukeim ustiuhada . filu gabaurjaba nu mais ƕopa in siukeim meinaim , ei ufarhleiþrjai ana mis ▶mahts◀ Xristaus . 
+264	<A 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aþþan jabai jah ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk weis siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+265	<A 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aþþan jabai jah ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk weis siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+266	<A 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aþþan jabai jah ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk weis siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+267	<A 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aþþan jabai jah ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk weis siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+268	<B 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aþþan jabai ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+269	<B 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aþþan jabai ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+270	<B 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aþþan jabai ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+271	<B 2Cor 13:4>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aþþan jabai ushramiþs was us siukein , akei libaiþ us ▶mahtai◀ gudis ; jah auk siukam in imma , akei libam miþ imma us ▶mahtai◀ gudis in izwis . 
+272	<A 2Cor 13:8>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	ni auk ▶magum◀ ƕa wiþra sunja , ak faur sunja . 
+273	<B 2Cor 13:8>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	ni auk ▶magum◀ ƕa wiþra sunja , ak faur sunja . 
+274	<B Eph 3:4>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	duþþe ei siggwandans ▶mageiþ◀ fraþjan frodein meinai in runai Xristaus , 
+275	<A Eph 3:16>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	ei gibai izwis bi gabein wulþaus seinis ▶mahtai◀ inswinþjan þairh ahman seinana in innuman mannan , 
+276	<A Eph 3:16>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	ei gibai izwis bi gabein wulþaus seinis ▶mahtai◀ inswinþjan þairh ahman seinana in innuman mannan , 
+277	<B Eph 3:16>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	ei gibai izwis bi gabein wulþaus seinis ▶mahtai◀ gaswinþnan þairh ahman seinana in innuman mannan , 
+278	<B Eph 3:16>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	ei gibai izwis bi gabein wulþaus seinis ▶mahtai◀ gaswinþnan þairh ahman seinana in innuman mannan , 
+279	<A Eph 3:18>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	ei in frijaþwai gawaurhtai jah gasulidai ▶mageiþ◀ gafahan miþ allaim þaim weiham ƕa sijai braidei jal~laggei jah hauhei jah d(unclear)iupe(/unclear)i ; 
+280	<B Eph 3:18>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	ei in friaþwai gawaurhtai jah gasulidai ▶mageiþ◀ gafahan miþ allaim þaim weiham ƕa sijai braidei jah laggei jah hauhei jah diupei ; 
+281	<A Eph 3:20>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aþþan þamma mahteigin ufar all taujan maizo giban þau bidjam aiþþau fraþjam bi ▶mahtai◀ þizai waurkjandein in unsis , 
+282	<A Eph 3:20>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aþþan þamma mahteigin ufar all taujan maizo giban þau bidjam aiþþau fraþjam bi ▶mahtai◀ þizai waurkjandein in unsis , 
+283	<B Eph 3:20>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aþþan þamma mahteigin ufar all taujan maizo þau bidjam aiþþau fraþjam bi ▶mahtai◀ þizai waurkjandein in uns , 
+284	<B Eph 3:20>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aþþan þamma mahteigin ufar all taujan maizo þau bidjam aiþþau fraþjam bi ▶mahtai◀ þizai waurkjandein in uns , 
+285	<A Eph 6:10>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	þata nu anþar , broþrjus meinai , inswinþjaiþ izwis in fraujin jah in ▶mahtai◀ swinþeins is . 
+286	<A Eph 6:10>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	þata nu anþar , broþrjus meinai , inswinþjaiþ izwis in fraujin jah in ▶mahtai◀ swinþeins is . 
+287	<B Eph 6:10>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	þata nu anþar , broþrjus meinai , inswin(unclear)þ(/unclear)jaiþ izwis in fraujin jah in ▶mahtai◀ swinþeins is . 
+288	<B Eph 6:10>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	þata nu anþar , broþrjus meinai , inswin(unclear)þ(/unclear)jaiþ izwis in fraujin jah in ▶mahtai◀ swinþeins is . 
+289	<A Eph 6:11>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	gahamoþ izwis sarwam gudis , ei ▶mageiþ◀ standan wiþra listins diabulaus ; 
+290	<B Eph 6:11>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	gahamoþ izwis sarwam gudis , ei ▶mageiþ◀ standan wiþra listins diabulaus ; 
+291	<A Eph 6:13>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	duþþe nimiþ sarwa gudis , ei ▶mageiþ◀ andstandan in þamma daga ubilin jah in allamma uswaurkjandans standan . 
+292	<B Eph 6:13>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	duþþe nimiþ sarwa gudis , ei ▶mageiþ◀ andstandan in þamma daga ubilin jah in allamma uswaurkjandans standan . 
+293	<A Eph 6:16>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ufar all andnimandans skildu galaubeinais , þammei ▶maguþ◀ allos arƕaznos þis unseljins funiskos afƕapjan ; 
+294	<B Eph 6:16>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ufar all andnimandans skildu galaubeinais , þammei ▶maguþ◀ allos arƕaznos þis unseleins funiskos afƕapjan ; 
+295	<A Gal 3:5>	Verb	V.prt.-prs.	WEAK-MASC-GEN-SING	saei nu andstaldiþ izwis ahmin jah waurkeiþ ▶mahtins◀ in izwis , uzu waurstwam witodis þau uzu gahauseinai galaubeinais ? 
+296	<A Gal 3:5>	Verb	V.prt.-prs.	WEAK-NEUT-GEN-SING	saei nu andstaldiþ izwis ahmin jah waurkeiþ ▶mahtins◀ in izwis , uzu waurstwam witodis þau uzu gahauseinai galaubeinais ? 
+297	<A Php 3:10>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	du kunnan ina jah ▶maht◀ usstassais is jah gamainduþ þulaine is , miþkauriþs was dauþau is , 
+298	<A Php 3:10>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	du kunnan ina jah ▶maht◀ usstassais is jah gamainduþ þulaine is , miþkauriþs was dauþau is , 
+299	<B Php 3:10>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	du kunnan ina jah ▶maht◀ usstassais is jah gamainduþ þulaine is , miþkauriþs was dauþau is , 
+300	<B Php 3:10>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	du kunnan ina jah ▶maht◀ usstassais is jah gamainduþ þulaine is , miþkauriþs was dauþau is , 
+301	<A Php 3:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	saei inmaideiþ leika hauneinais unsaraizos du ibnaskaunjamma leika wulþaus seinis bi waurstwa , unte ▶mag◀ jah ufhnaiwjan sis alla . 
+302	<A Php 3:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	saei inmaideiþ leika hauneinais unsaraizos du ibnaskaunjamma leika wulþaus seinis bi waurstwa , unte ▶mag◀ jah ufhnaiwjan sis alla . 
+303	<B Php 3:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	saei inmaideiþ leika hauneinais unsaraizos du ibnaskaunjamma leika wulþaus seinis bi waurstwa , unte ▶mag◀ jah ufhnaiwjan sis alla . 
+304	<B Php 3:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	saei inmaideiþ leika hauneinais unsaraizos du ibnaskaunjamma leika wulþaus seinis bi waurstwa , unte ▶mag◀ jah ufhnaiwjan sis alla . 
+305	<B Php 4:13>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	all ▶mag◀ in þamma inswinþjandin mik Xristau . 
+306	<B Php 4:13>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	all ▶mag◀ in þamma inswinþjandin mik Xristau . 
+307	<A Col 1:11>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+308	<A Col 1:11>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+309	<A Col 1:11>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+310	<A Col 1:11>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+311	<B Col 1:11>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+312	<B Col 1:11>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+313	<B Col 1:11>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+314	<B Col 1:11>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	in allai ▶mahtai◀ gaswinþidai bi ▶mahtai◀ wulþaus is , in allai usþulainai jah usbeisnai miþ fahedai , 
+315	<A Col 1:29>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	du þammei arbaidja usdaudjands bi waurstwa sei inna uswaurkeiþ in mis in ▶mahtai◀ 
+316	<A Col 1:29>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	du þammei arbaidja usdaudjands bi waurstwa sei inna uswaurkeiþ in mis in ▶mahtai◀ 
+317	<B 1Thess 3:9>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	ƕa auk awiliude ▶magum◀ usgildan fraujin guda bi izwis ana allai fahedai þizaiei faginom in izwara faura guda unsaramma , 
+318	<A 2Thess 1:11>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	du þammei jah bidjam sinteino bi izwis ei izwis wairþans briggai þizos laþonais guþ unsar jah fulljai alla leikain þiuþeinais seinaizos jah waurstw galaubeinais in ▶mahtai◀ , 
+319	<A 2Thess 1:11>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	du þammei jah bidjam sinteino bi izwis ei izwis wairþans briggai þizos laþonais guþ unsar jah fulljai alla leikain þiuþeinais seinaizos jah waurstw galaubeinais in ▶mahtai◀ , 
+320	<A 1Tim 3:5>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	iþ jabai ƕas seinamma garda fauragaggan ni ▶mag◀ , ƕaiwa aikklesjon gudis gakaroþ ? 
+321	<A 1Tim 3:5>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	iþ jabai ƕas seinamma garda fauragaggan ni ▶mag◀ , ƕaiwa aikklesjon gudis gakaroþ ? 
+322	<A 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+323	<A 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+324	<A 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+325	<A 1Tim 5:25>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+326	<A 1Tim 5:25>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+327	<A 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+328	<A 1Tim 5:25>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	samaleiko þan jah waurstwa goda swikunþa sind , jah þoei aljaleikos sik habandona filhan ni ▶mahta◀ sind . 
+329	<B 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+330	<B 1Tim 5:25>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+331	<B 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+332	<B 1Tim 5:25>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+333	<B 1Tim 5:25>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+334	<B 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+335	<B 1Tim 5:25>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	samaleiko þan jah waurstwa goda swikunþa ▶sind◀ , jah þo(unclear)ei(/unclear)aljaleikos sik habandona filhan ni mahta ▶sind◀ . 
+336	<A 1Tim 6:7>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	ni waiht auk brahtedum in þamma fairƕau ; bi sunjai þatei ni usbairan ƕa ▶magum◀ . 
+337	<B 1Tim 6:7>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	ni waiht auk brahtedum in þamma fairƕau ; bi sunjai þatei ni usbairan ƕa ▶magum◀ . 
+338	<B 1Tim 6:16>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	saei ains aih undiwanein jah liuhaþ bauiþ unatgaht , þanei saƕ manne ni ainshun nih sai(unclear)ƕan(/unclear)(unclear)mag(/unclear)
+339	<B 1Tim 6:16>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	saei ains aih undiwanein jah liuhaþ bauiþ unatgaht , þanei saƕ manne ni ainshun nih sai(unclear)ƕan(/unclear)(unclear)mag(/unclear)
+340	<A 2Tim 1:8>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	ni nunu skamai þuk weitwodiþos fraujins unsaris Iesuis nih meina , bandjins is , ak miþarbaidei aiwaggeljon bi ▶mahtai◀ gudis , 
+341	<A 2Tim 1:8>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	ni nunu skamai þuk weitwodiþos fraujins unsaris Iesuis nih meina , bandjins is , ak miþarbaidei aiwaggeljon bi ▶mahtai◀ gudis , 
+342	<B 2Tim 1:8>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	ni nunu skamai þuk weitwodiþos fraujins unsaris Iesuis nih meina , bandjins is , ak miþarbaidei aiwaggeljon bi ▶mahtai◀ gudis , 
+343	<B 2Tim 1:8>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	ni nunu skamai þuk weitwodiþos fraujins unsaris Iesuis nih meina , bandjins is , ak miþarbaidei aiwaggeljon bi ▶mahtai◀ gudis , 
+344	<B 2Tim 2:13>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jabai ni galaubjam , jains triggws wisiþ ; afaikan sik silban ni ▶mag◀ . 
+345	<B 2Tim 2:13>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jabai ni galaubjam , jains triggws wisiþ ; afaikan sik silban ni ▶mag◀ . 
+346	<A 2Tim 3:5>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	habandans hiwi gagudeins , iþ ▶maht◀ izos inwidandans ; jaþ~þans afwandei . 
+347	<A 2Tim 3:5>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	habandans hiwi gagudeins , iþ ▶maht◀ izos inwidandans ; jaþ~þans afwandei . 
+348	<B 2Tim 3:5>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	habandans hiwi gagudeins , iþ ▶maht◀ izos inwidandans ; jah þans afwandei . 
+349	<B 2Tim 3:5>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	habandans hiwi gagudeins , iþ ▶maht◀ izos inwidandans ; jah þans afwandei . 
+350	<E Sk 1:4>	Verb	V.prt.-prs.	ACT-OPT-PRET-SING-3	▶mahtedi◀ sweþauh jah inu mans leik , waldufnja þataine gudiskamma galausjan allans us diabulaus anamahtai ; akei kunnands þatei swaleikamma waldufnja mahtais nauþs ustaiknida wesi jan~ni þanaseiþs fastaida garaihteins gareh(add)s(add)ns , ak nauþai gawaurhtedi manne ganist . 
+351	<E Sk 1:5>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	jabai auk diabulau fram anastodeinai nih nauþjandin , ak uslutondin mannan jah þairh liugn gaƕotjandin ufargaggan anabusn — þatuh wesi wiþra þata gadob , ei frauja qimands ▶mahtai◀ gudiskai jah waldufnja , þana galausidedi jah nauþai du gagudein gawandidedi ; nei auk þuhtedi þau in garaihteins gaa(add)g(add)gwein ufargaggan þo faura ju us anastodeinai garaidon garehsn ? 
+352	<E Sk 1:5>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	jabai auk diabulau fram anastodeinai nih nauþjandin , ak uslutondin mannan jah þairh liugn gaƕotjandin ufargaggan anabusn — þatuh wesi wiþra þata gadob , ei frauja qimands ▶mahtai◀ gudiskai jah waldufnja , þana galausidedi jah nauþai du gagudein gawandidedi ; nei auk þuhtedi þau in garaihteins gaa(add)g(add)gwein ufargaggan þo faura ju us anastodeinai garaidon garehsn ? 
+353	<E Sk 2:2>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	inuh þis jah nasjands nauh miþþan anastodjands ustaiknida þana iupa briggandan in þiudangardjai gudis wig , qiþands : amen amen , qiþa þus , niba saei gabairada iupaþro , ni ▶mag◀ gasaiƕan þiudangardja gudis . 
+354	<E Sk 2:2>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	inuh þis jah nasjands nauh miþþan anastodjands ustaiknida þana iupa briggandan in þiudangardjai gudis wig , qiþands : amen amen , qiþa þus , niba saei gabairada iupaþro , ni ▶mag◀ gasaiƕan þiudangardja gudis . 
+355	<E Sk 2:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	þammuh þan ni froþ Nekaudemus , in þis ei miþþan frumist hausida fram laisarja , inuh þis qaþ : ƕaiwa ▶mahts◀ ist , manna gabairan alþeis wisands ? ibai mag in wamba aiþeins seinaizos aftra galeiþan jag~gabairaidau ? 
+356	<E Sk 2:4>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	þammuh þan ni froþ Nekaudemus , in þis ei miþþan frumist hausida fram laisarja , inuh þis qaþ : ƕaiwa mahts ist , manna gabairan alþeis wisands ? ibai ▶mag◀ in wamba aiþeins seinaizos aftra galeiþan jag~gabairaidau ? 
+357	<E Sk 2:4>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	þammuh þan ni froþ Nekaudemus , in þis ei miþþan frumist hausida fram laisarja , inuh þis qaþ : ƕaiwa mahts ist , manna gabairan alþeis wisands ? ibai ▶mag◀ in wamba aiþeins seinaizos aftra galeiþan jag~gabairaidau ? 
+358	<E Sk 2:6>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	inuh þis qaþ : ƕaiwa ▶mahts◀ ist , manna alþeis wisands gabairan ? ibai mag in wamba aiþeins seinaizos aftra galeiþan jah gabairaidau ? 
+359	<E Sk 2:6>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	inuh þis qaþ : ƕaiwa mahts ist , manna alþeis wisands gabairan ? ibai ▶mag◀ in wamba aiþeins seinaizos aftra galeiþan jah gabairaidau ? 
+360	<E Sk 2:6>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	inuh þis qaþ : ƕaiwa mahts ist , manna alþeis wisands gabairan ? ibai ▶mag◀ in wamba aiþeins seinaizos aftra galeiþan jah gabairaidau ? 
+361	<E Sk 2:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	iþ nasjands þana anawairþan dom is gasaiƕands jah þatei in galaubeinai þeihan habaida , gaskeirjands imma , swe miþþan unkunnandin , qiþands : amen amen , qiþa þus , niba saei gabairada us watin jah ahmin , ni ▶mag◀ inngaleiþan in þiudangardja gudis . 
+362	<E Sk 2:7>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	iþ nasjands þana anawairþan dom is gasaiƕands jah þatei in galaubeinai þeihan habaida , gaskeirjands imma , swe miþþan unkunnandin , qiþands : amen amen , qiþa þus , niba saei gabairada us watin jah ahmin , ni ▶mag◀ inngaleiþan in þiudangardja gudis . 
+363	<Lat5750 Sk 4:6>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	ni þatei ufaro wisandan sware kannidedi , ak jah swalauda is mikilduþais ▶maht◀ insok jah himinakundana jah iupaþro qumanana qiþands , iþ sik airþakundana j(unclear)ah(/unclear)us airþai rodjandan , in þizei wistai manna was : jaþþe weihs jaþþe praufetus wisands jag~garaihtein weitwodjands , akei us airþai was jah us waurdahai wistai rodjands . 
+364	<Lat5750 Sk 4:6>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	ni þatei ufaro wisandan sware kannidedi , ak jah swalauda is mikilduþais ▶maht◀ insok jah himinakundana jah iupaþro qumanana qiþands , iþ sik airþakundana j(unclear)ah(/unclear)us airþai rodjandan , in þizei wistai manna was : jaþþe weihs jaþþe praufetus wisands jag~garaihtein weitwodjands , akei us airþai was jah us waurdahai wistai rodjands . 
+365	<E Sk 5:3>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	anduh þana laist skeiris brukjands waurdis qaþ : swaswe auk atta urraiseiþ dauþans jah liban gataujiþ , swa jah sunus þanzei wili liban gataujiþ , ei swesamma wiljin jah swesai ▶mahtai◀ galeikonds þamma faurþis gaqiujandin dauþans , gahaitands þize ungalaubjandane þrasabalþein andbeitands gasoki . 
+366	<E Sk 5:3>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	anduh þana laist skeiris brukjands waurdis qaþ : swaswe auk atta urraiseiþ dauþans jah liban gataujiþ , swa jah sunus þanzei wili liban gataujiþ , ei swesamma wiljin jah swesai ▶mahtai◀ galeikonds þamma faurþis gaqiujandin dauþans , gahaitands þize ungalaubjandane þrasabalþein andbeitands gasoki . 
+367	<E Sk 5:5>	Verb	V.prt.-prs.	ACT-OPT-PRET-SING-3	iþ nu ains jah sa sama wesi bi Sabailliaus insahtai , missaleikaim bandwiþs namnam , ƕaiwa stojan jah ni sto(unclear)j(/unclear)an sa sama ▶mahtedi◀ ? 
+368	<E Sk 6:3>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+369	<E Sk 6:3>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+370	<E Sk 6:3>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+371	<E Sk 6:3>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+372	<E Sk 6:3>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+373	<E Sk 6:3>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+374	<E Sk 6:3>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam ▶mahta◀ ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan mag kunþi . 
+375	<E Sk 6:3>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam mahta ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan ▶mag◀ kunþi . 
+376	<E Sk 6:3>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jains auk manniskaim waurdam weitwodjands tweifljan þuhta , sunjeins wisands , þaim unkunnandam mahta ; iþ attins þairh meina waurstwa weitwodei alla ufar insaht manniskodaus Iohannes unandsok izwis undredan ▶mag◀ kunþi . 
+377	<E Sk 6:4>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	unte ƕarjatoh waurde at mannam innuman ▶maht◀ ist anþarleikein inmaidjan , iþ þo weihona waurstwa , unandsakana wisandona , gaswikunþjand þis waurkjandins dom , bairhtaba gabandwjandona þatei fram attin insandiþs was us himina . 
+378	<E Sk 6:4>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	unte ƕarjatoh waurde at mannam innuman ▶maht◀ ist anþarleikein inmaidjan , iþ þo weihona waurstwa , unandsakana wisandona , gaswikunþjand þis waurkjandins dom , bairhtaba gabandwjandona þatei fram attin insandiþs was us himina . 
+379	<E Sk 7:1>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-SING	_ahun kunnandins fraujins ▶maht◀ jah andþaggkjandins sik is waldufneis . 
+380	<E Sk 7:1>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-SING	_ahun kunnandins fraujins ▶maht◀ jah andþaggkjandins sik is waldufneis . 
+381	<Lat5750 Sk 8:1>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	 (unclear)ains(/unclear)hun uslagida ana  (add)i(add)na handuns , (add)a(add)t weihai ▶auk◀ is mahtai unanasiuniba unselein ize n(unclear)au(/unclear)h disskaidandein jah ni uslaubjandein faur mel sik gahaban . 
+382	<Lat5750 Sk 8:1>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	 (unclear)ains(/unclear)hun uslagida ana  (add)i(add)na handuns , (add)a(add)t weihai ▶auk◀ is mahtai unanasiuniba unselein ize n(unclear)au(/unclear)h disskaidandein jah ni uslaubjandein faur mel sik gahaban . 

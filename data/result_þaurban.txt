@@ -1,0 +1,42 @@
+	Ref	POS	Morpheme	MorTag	Line
+0	<CA Mt 6:8>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	ni galeikoþ nu þaim ; wait auk atta izwar þizei jus ▶þaurbuþ◀ , faurþizei jus bidjaiþ ina . 
+1	<CA Mt 6:32>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-2	all auk þata þiudos sokjand ; waituh þan atta izwar sa ufar himinam þatei ▶þaurbuþ◀ 
+2	<CA Mt 9:12>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	iþ Iesus gahausjands qaþ du im : ni ▶þaurbun◀ hailai lekeis , ak þai unhaili habandans . 
+3	<C Mt 26:65>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	▶þaurbum◀ weitwode ? sai , nu gahausideduþ þo wajamerein is . 
+4	<CA Jn 13:29>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-1	sumai mundedun , ei unte arka habaida Iudas , þatei qeþi imma Iesus : bugei þizei ▶þaurbeima◀ du dulþai , aiþþau þaim unledam ei ƕa gibau . 
+5	<CA Jn 16:30>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-2	nu witum ei þu kant alla , jah ni ▶þarft◀ ei þuk ƕas fraihnai ; bi þamma galaubjam þatei þu fram guda urrant . 
+6	<CA Lk 5:31>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	jah andhafjands Iesus qaþ du im : ni ▶þaurbun◀ hailai leikeis , ak þai unhailans . 
+7	<CA Lk 14:18>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	jah dugunnun suns faurqiþan allai . sa frumista qaþ : land bauhta jah ▶þarf◀ galeiþan jah saiƕan þata ; bidja þuk , habai mik faurqiþanana . 
+8	<CA Lk 14:18>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	jah dugunnun suns faurqiþan allai . sa frumista qaþ : land bauhta jah ▶þarf◀ galeiþan jah saiƕan þata ; bidja þuk , habai mik faurqiþanana . 
+9	<CA Lk 15:7>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	qiþa izwis þatei swa faheds wairþiþ in himina in ainis frawaurhtis idreigondins þau in niuntehundis jah niune garaihtaize þaiei ni ▶þaurbun◀ idreigos . 
+10	<CA Lk 19:34>	Verb	V.prt.-prs.	STRONG-MASC-NOM-SING	iþ eis qeþun : fraujin ▶þaurfts◀ þis ist . 
+11	<CA Mk 2:17>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-3	jah gahausjands Iesus qaþ du im : ni ▶þaurbun◀ swinþai lekeis , ak þai ubilaba habandans ; ni qam laþon uswaurhtans , ak frawaurhtans . 
+12	<CA Mk 2:25>	Verb	V.prt.-prs.	STRONG-NEUT-ACC-PLUR	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+13	<CA Mk 2:25>	Verb	V.prt.-prs.	STRONG-NEUT-NOM-PLUR	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+14	<CA Mk 2:25>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-1	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+15	<CA Mk 2:25>	Verb	V.prt.-prs.	STRONG-FEM-ACC-SING	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+16	<CA Mk 2:25>	Verb	V.prt.-prs.	WEAK-MASC-NOM-SING	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+17	<CA Mk 2:25>	Verb	V.prt.-prs.	ACT-IND-PRET-SING-3	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+18	<CA Mk 2:25>	Verb	V.prt.-prs.	STRONG-FEM-NOM-SING	jah is qaþ du im : niu ussuggwuþ aiw ƕa gatawida Daweid , þan ▶þaurfta◀ jah gredags was , is jah þai miþ imma ? 
+19	<CA Mk 14:63>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	iþ sa auhumista gudja disskreitands wastjos seinos qaþ : ƕa þanamais ▶þaurbum◀ weis weitwode ? 
+20	<A 1Cor 12:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	niþ~þan mag augo qiþan du handau : þeina ni ▶þarf◀ , aiþþau aftra haubiþ du fotum : iggqara ni ▶þarf◀ ; 
+21	<A 1Cor 12:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	niþ~þan mag augo qiþan du handau : þeina ni ▶þarf◀ , aiþþau aftra haubiþ du fotum : iggqara ni ▶þarf◀ ; 
+22	<A 1Cor 12:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-3	niþ~þan mag augo qiþan du handau : þeina ni ▶þarf◀ , aiþþau aftra haubiþ du fotum : iggqara ni ▶þarf◀ ; 
+23	<A 1Cor 12:21>	Verb	V.prt.-prs.	ACT-IND-PRES-SING-1	niþ~þan mag augo qiþan du handau : þeina ni ▶þarf◀ , aiþþau aftra haubiþ du fotum : iggqara ni ▶þarf◀ ; 
+24	<A 1Cor 12:22>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	ak filu mais þaie(unclear)i(/unclear)þugkjand liþiwe leikis lasiwostai wisan , þaurftai ▶sin(unclear)d(/unclear)◀
+25	<A 1Cor 12:22>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	ak filu mais þaie(unclear)i(/unclear)þugkjand liþiwe leikis lasiwostai wisan , þaurftai ▶sin(unclear)d(/unclear)◀
+26	<A 2Cor 3:1>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	Duginnam aftra uns silbans anafilhan ? aiþþau ibai ▶þaurbum◀ swe sumai anafilhis boko du izwis , aiþþau us izwis anafilhis ? 
+27	<B 2Cor 3:1>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	Dug(unclear)in(/unclear)nam aftr(unclear)a(/unclear)uns silbans anafilhan ? aiþþau ibai þaur(unclear)b(/unclear)um ▶swe◀ sumai anafil(unclear)h(/unclear)is boko du izwis , aiþþau us izwis anafilhis ? 
+28	<A Eph 4:28>	Verb	V.prt.-prs.	WEAK-MASC-DAT-SING	saei hlefi , þanaseiþs ni hlifai , iþ mais arbaidjai , waurkjands swesaim handum þiuþ , ei habai dailjan ▶þaurbandin◀ . 
+29	<A Eph 4:28>	Verb	V.prt.-prs.	WEAK-NEUT-DAT-SING	saei hlefi , þanaseiþs ni hlifai , iþ mais arbaidjai , waurkjands swesaim handum þiuþ , ei habai dailjan ▶þaurbandin◀ . 
+30	<B Eph 4:28>	Verb	V.prt.-prs.	WEAK-NEUT-DAT-SING	saei hlefi , þanaseiþs ni hlifai , ak mais arbaidjai , waurkjands swesaim handum þiuþ , ei habai dailjan ▶þaurbandin◀ . 
+31	<B Eph 4:28>	Verb	V.prt.-prs.	WEAK-MASC-DAT-SING	saei hlefi , þanaseiþs ni hlifai , ak mais arbaidjai , waurkjands swesaim handum þiuþ , ei habai dailjan ▶þaurbandin◀ . 
+32	<B Eph 5:4>	Verb	V.prt.-prs.	STRONG-FEM-DAT-SING	aiþþau aglaitiwaurdei aiþþau dwala(unclear)wa(/unclear)urdei aiþþau saldra , þoei d(unclear)u(/unclear)þaurftai ▶ni◀ fairrinnand , ak mais awiliuda . 
+33	<B Eph 5:4>	Verb	V.prt.-prs.	STRONG-MASC-NOM-PLUR	aiþþau aglaitiwaurdei aiþþau dwala(unclear)wa(/unclear)urdei aiþþau saldra , þoei d(unclear)u(/unclear)þaurftai ▶ni◀ fairrinnand , ak mais awiliuda . 
+34	<B 1Thess 4:9>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	aþþan bi broþrulubon ni ▶þaurbum◀ meljan izwis , unte silbans jus at guda uslaisidai sijuþ du frijon izwis misso . 
+35	<B 1Thess 4:12>	Verb	V.prt.-prs.	ACT-OPT-PRES-PLUR-2	ei gaggaiþ gafehaba du þaim þaiei uta sind jah ni ainishun ƕis ▶þaurbeiþ◀ . 
+36	<B 1Thess 5:1>	Verb	V.prt.-prs.	ACT-IND-PRES-PLUR-1	Aþþan bi þo þeihsa jah mela , broþrjus , ni ▶þaurbum◀ ei izwis meljaima ; 
+37	<A 2Tim 3:16>	Verb	V.prt.-prs.	STRONG-FEM-ACC-PLUR	all boko gudiskaizos ahmateinais jah ▶þaurftos◀ du laiseinai , du gasahtai , du garaihteinai , du talzeinai in garaihtein , 
+38	<A 2Tim 3:16>	Verb	V.prt.-prs.	STRONG-FEM-NOM-PLUR	all boko gudiskaizos ahmateinais jah ▶þaurftos◀ du laiseinai , du gasahtai , du garaihteinai , du talzeinai in garaihtein , 
+39	<B 2Tim 3:16>	Verb	V.prt.-prs.	STRONG-FEM-ACC-PLUR	all boko gudiskaizo(add)s(add) ahmateinais jah ▶þaurftos◀ du laiseinai , du gasahtai , du garaihteinai , du talzeinai in garaihtein , 
+40	<B 2Tim 3:16>	Verb	V.prt.-prs.	STRONG-FEM-NOM-PLUR	all boko gudiskaizo(add)s(add) ahmateinais jah ▶þaurftos◀ du laiseinai , du gasahtai , du garaihteinai , du talzeinai in garaihtein , 
